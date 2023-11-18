@@ -17,5 +17,5 @@ Using the slicing concept rotate the list
 ## Program:
 
 ## Output:
-
+![circulatevalues](/Screenshot%202023-11-18%20142517.png)
 ## Result:
