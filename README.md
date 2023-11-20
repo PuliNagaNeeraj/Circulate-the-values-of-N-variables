@@ -5,7 +5,7 @@ To write a python program to circulate the n variables using function concept
 PC
 Anaconda - Python 3.7
 ## Algorithm: 
-##Step 1:
+Step 1:
 The code defines a function named circulate.
 
 Step 2:
@@ -22,7 +22,10 @@ The result of the circular rotation is then printed.
 
 Step 6:
 Run the program, input a list and rotation value, and observe the rotated list.
+
+
 ## Program:
+
 #Program to circulate N values.
 #Developed by: Puli Naga Neeraj
 #RegisterNumber: 23004033
