@@ -31,20 +31,16 @@ Run the program, input a list and rotation value, and observe the rotated list
 
 
 ## Program:
-
-
+```
 #Program to circulate N values.
-
 #Developed by: Puli Naga Neeraj
-
 #RegisterNumber: 23004033
-
 def circulate():
     list1=eval(input())
     n=int(input())
     result=list1[n:]+list1[:n]
     print('After circulating the values are:',result)
-        
+```        
 ## Output:
 ![circulate-n-variables](https://github.com/PuliNagaNeeraj/Circulate-the-values-of-N-variables/assets/138849173/0b8de802-9c48-47c4-986b-aa7cbb30b812)
 
