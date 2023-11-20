@@ -34,8 +34,11 @@ Run the program, input a list and rotation value, and observe the rotated list
 
 
 #Program to circulate N values.
+
 #Developed by: Puli Naga Neeraj
+
 #RegisterNumber: 23004033
+
 def circulate():
     list1=eval(input())
     n=int(input())
